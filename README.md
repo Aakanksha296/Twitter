@@ -17,9 +17,9 @@ COMPONENTS
   
                                     lang_tweets.bson    - containing initial 10K tweets
                                     
-                                    words_tweets.bson   - has tweets contaning the named entities 
+                                    words_tweets.bson   - has tweets containing the named entities 
                                     
-                                    words_news.bson     - has news collecting the named entities
+                                    words_news.bson     - has news containing the named entities
   
 
 RUNNING
