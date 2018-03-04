@@ -25,7 +25,8 @@ COMPONENTS
 RUNNING
 
 In read_tweets.py provide CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN and ACCESS_TOKEN_SECRET for twitter application.
-Import twitterdb Database (twitterdb.zip) into Mongo Client
+Import twitterdb Database (twitterdb.zip) into Mongo Client.
+
   For command line, to collect tweets based on NER, invoke:
 
     > python read_tweets.py 
@@ -45,5 +46,5 @@ Import twitterdb Database (twitterdb.zip) into Mongo Client
 
 OTHER REQUIREMENTS
 
-  Uses english.all.3class.distsim.crf.ser.gz and stanford-ner.jar (present in the same folder) for performing named entity recognition using Stanform Tool
+  Uses english.all.3class.distsim.crf.ser.gz and stanford-ner.jar (present in the same folder) for performing named entity recognition using Stanford Tool.
 
